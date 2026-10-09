@@ -1,0 +1,6 @@
+{
+  "name": "Simple Chess",
+  "description": "تطبيق شطرنج كلاسيكي بسيط وسريع مع تحريك قانوني كامل وزر لعبة جديدة مجهز للأندرويد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
